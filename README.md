@@ -58,11 +58,11 @@ Haversine formula for distance approximation
 
 ![](./documentation/haversine_formula.png)
 
-Daily fleet utilization
+Daily fleet utilization - April 8, 2019
 
 ![](./documentation/daily_fleet_utilization_ratio.png)
 
-Hourly fleet utilization
+Hourly fleet utilization - April 8, 2019
 
 ![](./documentation/hourly_fleet_utilization_ratio.png)
 
