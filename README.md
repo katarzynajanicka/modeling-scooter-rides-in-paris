@@ -60,10 +60,12 @@ Haversine formula for distance approximation
 
 Daily fleet utilization - April 8, 2019
 
+![](./documentation/daily_fleet_ut_def.png)
 ![](./documentation/daily_fleet_utilization_ratio.png)
 
 Hourly fleet utilization - April 8, 2019
 
+![](./documentation/hourly_fleet_ut_def.png)
 ![](./documentation/hourly_fleet_utilization_ratio.png)
 
 Arrondissements in Paris
@@ -77,6 +79,8 @@ Louvre
 Point in polygon
 
 ![](./documentation/point_in_polygon.png)
+![](./documentation/geospatial_logic.png)
+![](./documentation/shapefiles.png)
 
 Where to deploy scooters in
 
