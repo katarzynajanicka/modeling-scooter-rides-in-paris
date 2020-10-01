@@ -29,19 +29,19 @@ The input data consists of:
 The output data:
 - modeling-scooter-rides-in-paris.ipynb (Jupyter Notebook)
 
-## Screenshots
-
-Business questions
+## Business questions
 
 ![](./documentation/questions.png)
 
-Table of contents
+## Analysis
 
 ![](./documentation/table_of_contents.png)
 
-Main objectives
+## Main objectives
 
 ![](./documentation/main_objectives.png)
+
+## Screenshots
 
 Scooter fleet
 
