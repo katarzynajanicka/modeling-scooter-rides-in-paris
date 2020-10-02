@@ -1,7 +1,7 @@
 # modeling-scooter-rides-in-paris
 How different scooter companies hit the streets of Paris
 
-<img src="https://img.shields.io/badge/python-3.8.5 -brightgreen"> <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-1.19.1-blue'> <img src='https://img.shields.io/badge/geopandas-0.6.1-blue'> <img src='https://img.shields.io/badge/descartes-1.1.0-blue'> <img src="https://img.shields.io/badge/matplotlib-3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-0.10.1 -blue"> <img src="https://img.shields.io/badge/geospatial-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/ride-data%20analysis-ff69b4"><img src="https://img.shields.io/badge/data-visualization-ff69b4">
+<img src="https://img.shields.io/badge/python-3.8.5 -brightgreen"> <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-1.19.1-blue'> <img src='https://img.shields.io/badge/geopandas-0.6.1-blue'> <img src='https://img.shields.io/badge/descartes-1.1.0-blue'> <img src="https://img.shields.io/badge/matplotlib-3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-0.10.1 -blue"> <img src="https://img.shields.io/badge/geospatial-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/ride-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/data-visualization-ff69b4">
 
  ## Table of contents
 * [General info](#general-info)
@@ -91,4 +91,4 @@ Where to deploy scooters in
 ![](./documentation/where_to_deploy_scooters_in.png)
 
 ## Status
-This project is in progress.
+This project is finished.
