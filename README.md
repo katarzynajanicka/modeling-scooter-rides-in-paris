@@ -7,6 +7,10 @@ How different scooter companies hit the streets of Paris
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Questions](#questions)
+* [Analysis](#analysis)
+* [Objectives](#objectives)
+* [Screenshots](#screenshots)
 * [Status](#status)
 
 ## General info
@@ -31,7 +35,7 @@ The input data consists of:
 The output data:
 - modeling-scooter-rides-in-paris.ipynb (Jupyter Notebook)
 
-## Business questions
+## Questions
 
 ![](./documentation/questions.png)
 
@@ -39,7 +43,7 @@ The output data:
 
 ![](./documentation/table_of_contents.png)
 
-## Main objectives
+## Objectives
 
 ![](./documentation/main_objectives.png)
 
