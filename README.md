@@ -1,7 +1,7 @@
 # modeling-scooter-rides-in-paris
 How different scooter companies hit the streets of Paris
 
-<img src="https://img.shields.io/badge/python-3.8.5 -brightgreen"> <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-1.19.1-blue'> <img src='https://img.shields.io/badge/geopandas-0.6.1-blue'> <img src='https://img.shields.io/badge/descartes-1.1.0-blue'> <img src="https://img.shields.io/badge/matplotlib-3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-0.10.1 -blue"> <img src="https://img.shields.io/badge/geospatial-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/ride-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/data-visualization-ff69b4">
+<img src="https://img.shields.io/badge/python-3.8.2 -brightgreen"> <img src='https://img.shields.io/badge/pandas-1.1.1-blue'> <img src='https://img.shields.io/badge/numpy-1.19.1-blue'> <img src='https://img.shields.io/badge/geopandas-0.6.1-blue'> <img src='https://img.shields.io/badge/descartes-1.1.0-blue'> <img src="https://img.shields.io/badge/matplotlib-3.3.1 -blue"> <img src="https://img.shields.io/badge/seaborn-0.10.1 -blue"> <img src="https://img.shields.io/badge/geospatial-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/ride-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/exploratory-data%20analysis-ff69b4"> <img src="https://img.shields.io/badge/data-visualization-ff69b4">
 
  ## Table of contents
 * [General info](#general-info)
@@ -17,7 +17,7 @@ How different scooter companies hit the streets of Paris
 This project is an analysis of the scooter ecosystem in Paris in March and early April 2019. 
 	
 ## Technologies
-Project is created with Python - version: 3.8.5.
+Project is created with Python - version: 3.8.2.
 
 Python libraries:
 * pandas - version 1.1.1
